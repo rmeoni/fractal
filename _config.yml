@@ -23,7 +23,7 @@ title: Café Don Lucas
 email: cafedonlucas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   El mejor café Guatemalteco 100% orgánico y amigable al medio ambiente. Ordena en línea y recibe en tu casa!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "fractal" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: cafedonlucas
 facebook_username: cafedonlucas
