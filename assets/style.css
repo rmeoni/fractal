@@ -1,7 +1,10 @@
 ---
 ---
 
-@import "main";
+
+#bs-over {
+	font-family: "Oswald";
+}
 
 #home-jumbotron {
  	background: rgb(34,193,195);
@@ -260,7 +263,7 @@
 
  #button {
 	padding: 18px 35px 18px 35px;
-	border: 3px solid #000;
+	border: 2px solid #000;
 	background-color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -314,6 +317,7 @@ body p {
   	z-index: 1000;
   	margin-left: 0px;
   	padding-left: 0px;
+  	font-family: 'Oswald', sans-serif;
 
 
 }
@@ -338,6 +342,7 @@ body p {
 	text-decoration: none;
 	list-style-type: none;
 	display: inline;
+	font-family: 'Oswald', sans-serif;
 }
 
 #menu li a:hover{
@@ -348,6 +353,7 @@ body p {
 .main-nav {
 	height: 250px;
 	text-align: center;
+	font-family: 'Oswald', sans-serif;
 }
 
 #logo {
@@ -442,7 +448,7 @@ body li:hover a span {
 }
 
 
-#bs-over form {
+body form {
 	text-align: left;
 	margin-bottom: 60px;
 }
@@ -505,23 +511,6 @@ body li:hover a span {
 	margin-right: 25px;
 }
 
-#button {
-	padding: 18px 35px 18px 35px;
-	border: 3px solid #000;
-	border-radius: 2%;
-	background-color: #fff;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	text-decoration: none;
-	color: #000;
-	margin-bottom: 40px;
-}
-
-#button:hover {
-	background-color: #000;
-	color: #fff;
-	transition: background-color .3s;
-}
 @media only screen and (max-width: 768px) {
 
 	#home-jumbotron {
@@ -582,12 +571,26 @@ body li:hover a span {
 		font-size: 1em;
 	}
 
+
 	#home-supporting-2 h4 {
 		font-size: 1.5em;
 	}
 
 	#home-featuring-2 {
 	margin-top: 100px;
+	text-align: center;
+
+	}
+
+	#home-featuring-2 h3 {
+	text-align: center;
+	font-size: 1.5em;
+
+	}
+
+	#home-featuring-2 p {
+	text-align: center;
+	font-size: 0.9em;
 
 	}
 
@@ -645,8 +648,17 @@ body li:hover a span {
 	}
 
 	#button-tienda {
-		font-size: 1em;
+		font-size: 0.9em;
 		padding: 10px;
+	}
+
+	#home-featuring #button {
+		margin-bottom: 60px;
+		padding: 10px;
+	}
+
+	#granos {
+		margin-top: 60px;
 	}
 
 	

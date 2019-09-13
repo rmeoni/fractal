@@ -1,14 +1,6 @@
 ---
 layout: page
 ---
-<!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-  <!--Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Catamaran:900|Oswald:200,400" rel="stylesheet"> 
-  <!--font awesome-->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-  <!-- style -->
-  <link rel="stylesheet" href="/assets/style.css">
 <div class="jumbotron" id="home-jumbotron">
 	<div class="container">
 		<h4>Hola.</h4>
@@ -28,7 +20,7 @@ layout: page
 			<a href="/nuestro-cafe" id="button">VER MÁS</a>
 		</div>
 		<div class="col-md-6 col-xs-12">
-			<img class="img-responsive" src="/images/granos-supporting.png">
+			<img class="img-responsive" id="granos" src="/images/granos-supporting.png">
 			<h3>Nuestros Origenes</h3>
 			<p>Don Lucas fue un hombre honrado, trabajador, amoroso y caritativo que empezo con esta tradición cafetalera hace más de 60 años, practicando siempre la excelencia y la pasión por el caf&eacute;, heredandola a travez del ejemplo. </p>
 			<a href="/nuestros-origenes" id="button">VER MÁS</a>
@@ -43,7 +35,7 @@ layout: page
 <div class="featuring-2" id="home-featuring-2">
 	<h3>CAFÉ DON LUCAS VIENE EN 3 <br>DELICIOSAS PRESENTACIONES</h3>
 	<p>Te invitamos a conocer las 3 presentaciones de nuestro caf&eacute; <br>Un caf&eacute; para los paladares mas exigentes, siempre fresco y <br>aromatico. <br> <strong>*Precios Especiales a Restaurantes y Mayoristas*</strong></p>
-	<a href="/comprar" id="button">Visita Nuestra Tienda</a>
+	<a href="/comprar" id="button">Visitar Tienda</a>
 </div>
 <div class="product" id="home-product">
 	<div class="container">
