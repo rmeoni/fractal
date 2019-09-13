@@ -7,7 +7,7 @@
  	background: rgb(34,193,195);
 	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
 	min-height: 400px;
@@ -63,7 +63,7 @@
 
 #home-supporting-2 {
 	background-image: url("/images/origenes.jpg");
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 600px;
@@ -527,10 +527,12 @@ body li:hover a span {
 	#home-jumbotron {
 		height: 350px;
 		margin: 20px;
+		background-attachment: scroll
 	}
 
 	#home-supporting {
 		height: 600px;
+		background-attachment: scroll
 	}
 
 	#home-supporting h1 {
@@ -556,6 +558,8 @@ body li:hover a span {
 
 	#home-supporting-2 {
 		margin:20px;
+		background-attachment: scroll;
+		background-size: 600px ;
 	}
 
 	#origenes-supporting #button {
