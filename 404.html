@@ -1,6 +1,6 @@
 ---
 permalink: /404.html
-layout: contact
+layout: page
 ---
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 <style type="text/css" media="screen">
@@ -20,6 +20,7 @@ layout: contact
     line-height: 1;
     letter-spacing: -1px;
   }
+
   #button {
   padding: 18px 35px 18px 35px;
   background-color: #fff;
@@ -39,6 +40,7 @@ layout: contact
 
 #error {
   margin-bottom: 40px;
+  color: #000;
 }
 #logo {
 }
@@ -46,10 +48,9 @@ layout: contact
 
 <div class="container">
   <br>
-  <a id ="logo" href="/"><img class="img-responsive" width="120px" src="/images/donlucas-logo.png"></a>
   <h1>404</h1>
 
-  <p><strong>Pagina no encontrada :(</strong></p>
+  <p id="error"><strong>Pagina no encontrada :(</strong></p>
   <p id="error">No encontramos la direcci&oacute;n que buscas.</p>
   <a id="button" href="/">Volver a Inicio</a>
 </div>

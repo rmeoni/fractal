@@ -200,9 +200,25 @@
 	float: left;
 }
 
+#origines-featuring {
+	background-image: url("/images/origenes-2.jpg");
+	background-attachment: fixed;
+	background-size: contain;
+	height: 400px;
+}
+
 #origenes-supporting p {
 	margin-bottom: 40px;
 	padding-bottom: 40px;
+}
+
+#cafe-featuring {
+	background-image: url("/images/coffee.png");
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 400px;
 }
 
 #distribuidores {
@@ -593,6 +609,21 @@ body form {
 	font-size: 0.9em;
 
 	}
+
+	#origines-featuring {
+	background-attachment: scroll;
+	height: 200px;
+	background-repeat: no-repeat;
+	}
+
+	#cafe-featuring {
+	background-attachment: scroll;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	}
+
+
 
 
 	#home-product {
