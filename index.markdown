@@ -15,7 +15,7 @@ layout: page
 		<h1>Nuestra misi&oacute;n es simple:</h1>
 		<h5>Producir y distribuir el mejor caf&eacute; guatemalteco 100% org&aacute;nico y amigable al medio ambiente.</h5>
 		<br>
-		<a href="/comprar" id="button-tienda">Visita Nuestra Tienda</a>
+		<a href="/comprar" id="button-tienda">Visitar Tienda</a>
 	</div>
 </div>
 <div class="featuring" id="home-featuring">
