@@ -21,16 +21,16 @@ layout: page
 <div class="featuring" id="home-featuring">
 	<div class="container">
 	<div class="row">
-		<div class="col-md-5 col-xs-12">
+		<div class="col-md-6 col-xs-12">
 			<img class="img-responsive" src="/images/granos-supporting.png">
 			<h3>Nuestros Origenes</h3>
 			<p>Don Lucas fue un hombre honrado, trabajador, amoroso y caritativo que empezo con esta tradición cafetalera hace más de 60 años, practicando siempre la excelencia y la pasión por el caf&eacute;, heredandola a travez del ejemplo. </p>
 			<a href="/nuestros-origenes" id="button">VER MÁS</a>
 		</div>
-		<div class="col-md-5 col-xs-12">
+		<div class="col-md-6 col-xs-12">
 			<img class="img-responsive" id="cafe-img" src="images/cover-producto.png">
 			<h3>Nuestro Caf&eacute; </h3>
-			<p>Cosecha 2018-2019, café tostado y molido el 1 de Junio del 2019, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto. </p>
+			<p>Cosecha 2018-2019, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto. </p>
 			<a href="/nuestro-cafe" id="button">VER MÁS</a>
 		</div>
 	</div>
@@ -48,36 +48,20 @@ layout: page
 <div class="product" id="home-product">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-5 col-xs-12">
+			<div class="col-md-6 col-xs-12">
 				<p>Regi&oacute;n San Marcos</p>
 				<a href="/region-san-marcos"><img class="img-responsive" id="product-image" src="/images/sanmarcos.jpg"/></a>
 			</div>
-			<div class="col-md-5 col-xs-12">
+			<div class="col-md-6 col-xs-12">
 				<p>Regi&oacute;n Huehuetenango</p>
 				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue.jpg"/></a>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-5 col-md-offset-3 col-xs-12">
+			<div class="col-md-6 col-md-offset-3 col-xs-12">
 				<p>Mezcla de Regiones</p>
 				<a href="/region-mezcla"><img class="img-responsive" src="/images/mezcla.jpg"/></a>
 			</div>
 		</div>
 	</div>
-</div>
-<div class="footer">
-	<h3>Café Don Lucas</h3>
-  <div class="social-networks">
-    <ul id="footer-menu">
-      <li><a href="https://www.facebook.com/cafedonlucas" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-      <li><a href="https://www.instagram.com/cafedonlucas" target="_blank"><i class="fab fa-instagram"></i></a></li>
-      <li><a href="mailto:cafedonlucas@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
-    </ul>
-  </div>
-	<ul id="footer-menu">
-		<li><a href="/contacto">CONTACTO</a></li>
-    <li><a href="/distribuidores">DISTRIBUIDORES</a></li>
-		<li><a href="/blog">BLOG</a></li>
-	</ul>
-	<p>Creado por <a href="https://sofinteractive.herokuapp.com" target="_blank">Fractal Web Apps</a></p>
 </div>

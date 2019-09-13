@@ -1,0 +1,51 @@
+<!-- mobile nav bar -->
+  <script type="text/javascript">
+  
+  var main = function() {
+
+  /* Push the body and the nav over by 480px over */
+  $('#icon-menu').click(function() {
+    $('#icon-menu').css('background-color','#000');
+    $('.menu').animate({
+      right: "0px"
+    }, 200);
+
+    $('body').animate({
+      right: "220px"
+    }, 200);
+
+  });
+
+  /* Then push them back */
+  $('.icon-close').click(function() {
+    $('#icon-menu').css('background-color', '#fff');
+    $('.menu').animate({
+      right: "-220px"
+    }, 200);
+
+    $('body').animate({
+      right: "0px"
+    }, 200);
+
+});
+
+};
+$(document).ready(main);
+
+  </script>
+<div class="footer">
+	<h3>Café Don Lucas</h3>
+  <div class="social-networks">
+    <ul id="footer-menu">
+      <li><a href="https://www.facebook.com/cafedonlucas" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+      <li><a href="https://www.instagram.com/cafedonlucas" target="_blank"><i class="fab fa-instagram"></i></a></li>
+      <li><a href="mailto:cafedonlucas@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
+    </ul>
+  </div>
+	<ul id="footer-menu">
+		<li><a href="/contacto">CONTACTO</a></li>
+    <li><a href="/distribuidores">DISTRIBUIDORES</a></li>
+		<li><a href="/blog">BLOG</a></li>
+	</ul>
+	<p>Creado por <b>Fractal Web Apps</b></p>
+</div>

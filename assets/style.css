@@ -10,7 +10,7 @@
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 500px;
+	min-height: 400px;
 	padding:50px 50px 0px 50px;
 	text-align: center;
 }
@@ -627,6 +627,5 @@ body li:hover a span {
 		margin-bottom: 80px;
 	}
 
-
-
+	
 	}
