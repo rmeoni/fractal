@@ -1,24 +1,22 @@
 ---
-layout: home
+layout: page
 ---
 <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <!--Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Catamaran:900|Oswald:200,400" rel="stylesheet"> 
+  <!--font awesome-->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <!-- style -->
   <link rel="stylesheet" href="/assets/style.css">
-
 <div class="jumbotron" id="home-jumbotron">
 	<div class="container">
-		<h4></h4>
-		<h1></h1>
-		<h5></h5>
+		<h4>Hola.</h4>
+		<h1>Nuestra misi&oacute;n es simple:</h1>
+		<h5>Producir y distribuir el mejor caf&eacute; guatemalteco 100% org&aacute;nico</h5>
+		<br>
+		<a href="/comprar" id="button-tienda">Visita Nuestra Tienda</a>
 	</div>
-</div>
-<div class="supporting" id="home-supporting">
-	<h1>Hola. Nuestra misi&oacute;n es simple: </h1>
-	<h3>Producir y distribuir el mejor caf&eacute; guatemalteco 100% org&aacute;nico</h3>
-	<p>*El caf&eacute; de huehuetenango puede contener trazas de quimicos aplicados al suelo para control de plagas</p>
 </div>
 <div class="featuring" id="home-featuring">
 	<div class="container">
@@ -26,7 +24,7 @@ layout: home
 		<div class="col-md-5 col-xs-12">
 			<img class="img-responsive" src="/images/granos-supporting.png">
 			<h3>Nuestros Origenes</h3>
-			<p>Don Lucas fue un hombre honrado, puntual, trabajador, amoroso y caritativo que empezo con esta tradición cafetalera hace más de 60 años, practicando siempre la excelencia y la pasión por el caf&eacute;, heredandola a travez del ejemplo. </p>
+			<p>Don Lucas fue un hombre honrado, trabajador, amoroso y caritativo que empezo con esta tradición cafetalera hace más de 60 años, practicando siempre la excelencia y la pasión por el caf&eacute;, heredandola a travez del ejemplo. </p>
 			<a href="/nuestros-origenes" id="button">VER MÁS</a>
 		</div>
 		<div class="col-md-5 col-xs-12">
@@ -66,4 +64,20 @@ layout: home
 			</div>
 		</div>
 	</div>
+</div>
+<div class="footer">
+	<h3>Café Don Lucas</h3>
+  <div class="social-networks">
+    <ul id="footer-menu">
+      <li><a href="https://www.facebook.com/cafedonlucas" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+      <li><a href="https://www.instagram.com/cafedonlucas" target="_blank"><i class="fab fa-instagram"></i></a></li>
+      <li><a href="mailto:cafedonlucas@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
+    </ul>
+  </div>
+	<ul id="footer-menu">
+		<li><a href="/contacto">CONTACTO</a></li>
+    <li><a href="/distribuidores">DISTRIBUIDORES</a></li>
+		<li><a href="/blog">BLOG</a></li>
+	</ul>
+	<p>Creado por <a href="https://sofinteractive.herokuapp.com" target="_blank">Fractal Web Apps</a></p>
 </div>
