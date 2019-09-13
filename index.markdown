@@ -22,16 +22,16 @@ layout: page
 	<div class="container">
 	<div class="row">
 		<div class="col-md-6 col-xs-12">
-			<img class="img-responsive" src="/images/granos-supporting.png">
-			<h3>Nuestros Origenes</h3>
-			<p>Don Lucas fue un hombre honrado, trabajador, amoroso y caritativo que empezo con esta tradición cafetalera hace más de 60 años, practicando siempre la excelencia y la pasión por el caf&eacute;, heredandola a travez del ejemplo. </p>
-			<a href="/nuestros-origenes" id="button">VER MÁS</a>
-		</div>
-		<div class="col-md-6 col-xs-12">
 			<img class="img-responsive" id="cafe-img" src="images/cover-producto.png">
 			<h3>Nuestro Caf&eacute; </h3>
 			<p>Cosecha 2018-2019, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto. </p>
 			<a href="/nuestro-cafe" id="button">VER MÁS</a>
+		</div>
+		<div class="col-md-6 col-xs-12">
+			<img class="img-responsive" src="/images/granos-supporting.png">
+			<h3>Nuestros Origenes</h3>
+			<p>Don Lucas fue un hombre honrado, trabajador, amoroso y caritativo que empezo con esta tradición cafetalera hace más de 60 años, practicando siempre la excelencia y la pasión por el caf&eacute;, heredandola a travez del ejemplo. </p>
+			<a href="/nuestros-origenes" id="button">VER MÁS</a>
 		</div>
 	</div>
 </div>
