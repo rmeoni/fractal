@@ -13,7 +13,7 @@ layout: page
 	<div class="container">
 		<h4>Hola.</h4>
 		<h1>Nuestra misi&oacute;n es simple:</h1>
-		<h5>Producir y distribuir el mejor caf&eacute; guatemalteco 100% org&aacute;nico</h5>
+		<h5>Producir y distribuir el mejor caf&eacute; guatemalteco 100% org&aacute;nico y amigable al medio ambiente.</h5>
 		<br>
 		<a href="/comprar" id="button-tienda">Visita Nuestra Tienda</a>
 	</div>
