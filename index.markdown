@@ -57,3 +57,15 @@ layout: page
 		</div>
 	</div>
 </div>
+<div class="featuring-3">
+	<div class="row">
+		<div class="col-md-6 col-xs-12">
+				<p>Regi&oacute;n San Marcos</p>
+				<a href="/region-san-marcos"><img class="img-responsive" src="/images/sanmarcos.jpg"/></a>
+			</div>
+			<div class="col-md-6 col-xs-12">
+				<p>Regi&oacute;n Huehuetenango</p>
+				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue.jpg"/></a>
+			</div>
+	</div>
+</div>
