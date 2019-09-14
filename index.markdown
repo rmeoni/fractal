@@ -57,15 +57,32 @@ layout: page
 		</div>
 	</div>
 </div>
+<div class="supporting-3" id="supporting-3">
+	<h1>Bolsa 100% degradable en menos de 2 años</h1>
+	<h3>Las bolsas de plastico normales tardan 500 años en degradarse</h3>
+	<p>Al comprar nuestro café ayudas a preservar la naturaleza, ademas de disfrutar un café 100% org&aacute;nico con calidad de exportaci&oacute;n.</p>
+</div>
 <div class="featuring-3">
+	<div class="container">
 	<div class="row">
 		<div class="col-md-6 col-xs-12">
-				<p>Regi&oacute;n San Marcos</p>
-				<a href="/region-san-marcos"><img class="img-responsive" src="/images/sanmarcos.jpg"/></a>
+				<p>Bolsa Eco-Friendly 100% biodegradable!</p>
+				<img class="img-responsive" src="/images/nuevo-empaque.jpg"/>
+				</div>
+				<div class="col-md-6 col-xs-12">
+				<p>Café maduro</p>
+				<img class="img-responsive" src="/images/cafe2.jpg"/>
 			</div>
-			<div class="col-md-6 col-xs-12">
-				<p>Regi&oacute;n Huehuetenango</p>
-				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue.jpg"/></a>
 			</div>
+			<div class="row">
+				<div class="col-md-6 col-xs-12">
+				<p>Café Pergamino</p>
+				<img class="img-responsive" src="/images/pergamino.jpg"/>
+			</div>
+				<div class="col-md-6 col-xs-12">
+				<p>Tostado localmente en San Marcos, Guatemala.</p>
+				<img class="img-responsive" src="/images/tostado.jpg"/>
+				</div>
+		</div>
 	</div>
 </div>

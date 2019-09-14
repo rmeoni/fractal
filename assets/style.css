@@ -221,6 +221,27 @@
 	height: 400px;
 }
 
+#supporting-3 {
+	text-align: center;
+ 	background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+	background-attachment: fixed;
+	height: 400px;
+}
+
+#supporting-3 h1 {
+	font-family: 'Catamaran';
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: 2px;
+	font-size: 4em;
+	padding-top: 70px;
+}
+
+#supporting-3 p {
+	color: #fff;
+}
+
 #distribuidores {
 	text-align: center;
 }
@@ -690,6 +711,15 @@ body form {
 
 	#granos {
 		margin-top: 60px;
+	}
+
+	#supporting-3 {
+		background-attachment: scroll;
+	}
+
+	#supporting-3 h1 {
+		padding-top: 30px;
+		font-size: 2.5em;
 	}
 
 	
