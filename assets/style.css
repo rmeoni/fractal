@@ -688,7 +688,7 @@ body form {
 		padding-top: 3px;
 		margin-right: 0px;
 		position: fixed;
-		z-index: 4;
+		z-index: 3;
 		display: block;
 		float: right;
 		margin-top: 20px;
