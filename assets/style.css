@@ -350,13 +350,17 @@ body p {
 	height: 100%;
   	position: fixed;
   	width: 220px;
-  	right:-220px;
-  	z-index: 1000;
+  	right: 0;
+  	transform: translateX(240px) scale(0.9);
+  	z-index: 4;
   	margin-left: 0px;
   	padding-left: 0px;
   	font-family: 'Oswald', sans-serif;
+  	transition: transform 0.5s;
+}
 
-
+.menu.open {
+ 	transform: translateX(0px);
 }
 
 #menu {
@@ -452,7 +456,6 @@ body p {
 	padding: 5px;
 	margin-left: 5px;
 	font-size: 28px;
-	z-index: 1000;
 	background-color: #fff;
 }
 
@@ -685,7 +688,7 @@ body form {
 		padding-top: 3px;
 		margin-right: 0px;
 		position: fixed;
-		z-index: 1000;
+		z-index: 4;
 		display: block;
 		float: right;
 		margin-top: 20px;

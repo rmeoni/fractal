@@ -86,3 +86,37 @@ layout: page
 		</div>
 	</div>
 </div>
+<script type="text/javascript">
+  
+  var main = function() {
+
+  /* Push the body and the nav over by 480px over */
+  $('#icon-menu').click(function() {
+    $('.menu').addClass('open');
+
+    //$('.menu').animate({
+    //  right: "0px"
+    //}, 200);
+
+    //$('body').animate({
+    //  right: "220px"
+    //}, 200);
+  });
+
+  /* Then push them back */
+  $('.icon-close').click(function() {
+    $('.menu').removeClass('open');
+    //$('.menu').animate({
+      //right: "-220px"
+    //}, 200);
+
+    //$('body').animate({
+      //right: "0px"
+    //}, 200);
+
+});
+
+};
+$(document).ready(main);
+
+  </script>
