@@ -1,31 +1,30 @@
-<!-- mobile nav bar -->
-  <script type="text/javascript">
+<script type="text/javascript">
   
   var main = function() {
 
   /* Push the body and the nav over by 480px over */
   $('#icon-menu').click(function() {
-    $('#icon-menu').css('background-color','#000');
-    $('.menu').animate({
-      right: "0px"
-    }, 200);
+    $('.menu').addClass('open');
 
-    $('body').animate({
-      right: "220px"
-    }, 200);
+    //$('.menu').animate({
+    //  right: "0px"
+    //}, 200);
 
+    //$('body').animate({
+    //  right: "220px"
+    //}, 200);
   });
 
   /* Then push them back */
   $('.icon-close').click(function() {
-    $('#icon-menu').css('background-color', '#fff');
-    $('.menu').animate({
-      right: "-220px"
-    }, 200);
+    $('.menu').removeClass('open');
+    //$('.menu').animate({
+      //right: "-220px"
+    //}, 200);
 
-    $('body').animate({
-      right: "0px"
-    }, 200);
+    //$('body').animate({
+      //right: "0px"
+    //}, 200);
 
 });
 
