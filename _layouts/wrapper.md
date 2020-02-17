@@ -20,7 +20,7 @@
     <li><a href="/distribuidores">DISTRIBUIDORES</a></li>
 		<li><a href="/blog">BLOG</a></li>
 	</ul>
-	<p>Creado por <a href="https://sofinteractive.herokuapp.com" target="_blank">Fractal Web Apps</a>
+	<p>Creado por <a href="/" target="_blank">Fractal Web Apps</a>
 </div>
 
 
