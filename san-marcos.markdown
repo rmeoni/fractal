@@ -9,7 +9,10 @@ permalink: /region-san-marcos
 				<img class="img-responsive" src="/images/sanmarcos.jpg">
 			</div>
 			<div class="col-md-4 col-xs-12">
-				<a href="/region-huehuetenango"><p>Siguiente > </p></a>
+				<ul>
+				<li><a href="/moccha-blend"><p> < Atras /</p></a> </li>
+				<li> <a href="/region-huehuetenango"><p> Siguiente > </p></a> </li>
+				</ul>
 				<h3>Caf&eacute; Regi&oacute;n San Marcos</h3>
 				<h5><strong>Q50.00</strong></h5>
 				<p>Nuestro café de San Marcos es un café guatemalteco 100% orgánico cosechado a las faldas del Volcán Tajumulco a 1,100 mts. sobre el nivel del mar con una denominación de grano <strong>Semi-Duro.</strong> Un sabor suave al paladar, de cuerpo redondo, con notas frutales y dulces. </p>
