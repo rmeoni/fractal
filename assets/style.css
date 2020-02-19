@@ -235,7 +235,8 @@
 	color: #fff;
 	letter-spacing: 2px;
 	font-size: 4em;
-	padding-top: 70px;
+	padding: 70px;
+	padding-bottom: 10px;
 }
 
 #supporting-3 p {
