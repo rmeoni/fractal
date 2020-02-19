@@ -10,7 +10,7 @@ permalink: /comprar
 				<a href="/moccha-blend"><img class="img-responsive" id="product-image" src="/images/moccha-blend.jpg"/></a>
 			</div>
 			<div class="col-md-6 col-xs-12">
-				<p>Regi&oacute;n San Marcos</p>
+				<p>Regi&oacute;n San Marcos Gourmet Blend</p>
 				<a href="/region-san-marcos"><img class="img-responsive" id="product-image" src="/images/sanmarcos.jpg"/></a>
 			</div>
 		</div>
