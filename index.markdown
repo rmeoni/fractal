@@ -42,7 +42,7 @@ layout: page
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<p>Moccha Blend</p>
-				<a href="/region-san-marcos"><img class="img-responsive" id="product-image" src="/images/moccha-blend.jpg"/></a>
+				<a href="/moccha-blend"><img class="img-responsive" id="product-image" src="/images/moccha-blend.jpg"/></a>
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<p>Regi&oacute;n San Marcos</p>
