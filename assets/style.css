@@ -294,6 +294,38 @@
 	color: #333;
 }
 
+/**SHOP TABS**/
+#ventana-1 {
+	background-color: #bcaaa4;
+	text-transform: uppercase;
+}
+
+#ventana-2 {
+	background-color: #efdcd5;
+	text-transform: uppercase;
+}
+
+#bs-over #tabs {
+	color: #fff;
+}
+
+#bs-over .ui-widget-header {
+	background: #fff;
+	border-bottom: 1px solid #dbdbdb;
+}
+
+#bs-over .ui-widget.ui-widget-content {
+	border: 1px solid #fff;
+}
+
+#bs-over #ui-id-1 {
+	font-weight: bold;
+}
+
+#bs-over #ui-id-2 {
+	font-weight: bold;
+}
+
 /** orden en linea **/
 .orden {
 	text-align: center;

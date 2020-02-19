@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /prueba
+permalink: /comprar
 ---
 <html lang="en">
 <head>
@@ -17,12 +17,12 @@ permalink: /prueba
   } );
   </script>
 </head>
-<body>
+<body id="bs-over">
  
 <div id="tabs">
   <ul>
-    <li><a href="#tabs-1">Cáfe Don Lucas</a></li>
-    <li><a href="#tabs-2">Productos Saludables</a></li>
+    <li id="ventana-1"><a href="#tabs-1">Café Don Lucas</a></li>
+    <li id="ventana-2"><a href="#tabs-2">Utopia Cacao Farms</a></li>
   </ul>
   <div id="tabs-1">
    <div class="product" id="page-product">
@@ -56,7 +56,7 @@ permalink: /prueba
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<p>Moringa Powder</p>
-				<a href="/moccha-blend"><img class="img-responsive" id="product-image" src="/images/moringa-powder.jpg"/></a>
+				<a href="/moringa-powder"><img class="img-responsive" id="product-image" src="/images/moringa-powder.jpg"/></a>
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<p>Cacao Nibs</p>

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /comprar
+permalink: /comprar-cafe
 ---
 <div class="product" id="page-product">
 	<div class="container">
