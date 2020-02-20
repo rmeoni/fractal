@@ -14,9 +14,6 @@ permalink: /orden-utopia-cacao
 <noscript>
   <a href="https://podio.com/webforms/24098620/1751645" target="_blank">Please fill out the form</a>
 </noscript>
-  <div class="podio-webform-container">
-  The simplest way to <a href="https://podio.com" class="podio-webform-inner" rel="nofollow">manage projects</a> out there
-  </div>
 <!-- END Podio web form -->
 
 
