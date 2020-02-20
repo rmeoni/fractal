@@ -201,10 +201,12 @@
 }
 
 #origines-featuring {
-	background-image: url("/images/origenes-2.jpg");
+	background-image: url("/images/SAM_7000.jpg");
 	background-attachment: fixed;
-	background-size: contain;
+	background-size: cover;
 	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 #origenes-supporting p {
