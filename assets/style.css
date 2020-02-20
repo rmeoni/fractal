@@ -313,7 +313,10 @@
 
 #bs-over .ui-widget-header {
 	background: #fff;
-	border-bottom: 1px solid #dbdbdb;
+	border-bottom: 1px solid #fff;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #fff;
 }
 
 #bs-over .ui-widget.ui-widget-content {
