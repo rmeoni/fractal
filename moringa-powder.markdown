@@ -6,7 +6,7 @@ permalink: /moringa-powder
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
-				<img class="img-responsive" src="/images/moringa-powder.jpg">
+				<img class="img-responsive" src="/images/moringa-powder-1.jpg">
 			</div>
 			<div class="col-md-4 col-xs-12">
 				<a href="/cacao-nibs"><p>Siguiente > </p></a>

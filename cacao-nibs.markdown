@@ -6,7 +6,7 @@ permalink: /cacao-nibs
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
-				<img class="img-responsive" src="/images/cacao-nibs.jpg">
+				<img class="img-responsive" src="/images/cacao-nibs-1.jpg">
 			</div>
 			<div class="col-md-4 col-xs-12">
 				<ul>
