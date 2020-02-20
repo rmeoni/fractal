@@ -60,7 +60,7 @@ permalink: /comprar
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<p>Cacao Nibs</p>
-				<a href="/region-san-marcos"><img class="img-responsive" id="product-image" src="/images/cacao-nibs.jpg"/></a>
+				<a href="/cacao-nibs"><img class="img-responsive" id="product-image" src="/images/cacao-nibs.jpg"/></a>
 			</div>
 		</div>
 		<div class="row">
