@@ -49,7 +49,7 @@ permalink: /comprar
 		</div>
 	</div>
 </div>
-  </div>
+</div>
   <div id="tabs-2">
     <div class="product" id="page-product">
 	<div class="container">
@@ -70,7 +70,7 @@ permalink: /comprar
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<p>Moccha Crunch</p>
-				<a href="/region-mezcla"><img class="img-responsive" src="/images/moccha-crunch.jpg"/></a>
+				<a href="/moccha-crunch"><img class="img-responsive" src="/images/moccha-crunch.jpg"/></a>
 			</div>
 		</div>
 	</div>

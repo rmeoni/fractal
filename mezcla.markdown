@@ -9,7 +9,10 @@ permalink: /region-mezcla
 				<img class="img-responsive" src="/images/mezcla.jpg">
 			</div>
 			<div class="col-md-4 col-xs-12">
-				<a href="/region-huehuetenango"><p> < atras</p></a>
+				<ul>
+				<li><a href="/region-huehuetenango"><p> < Atras /</p></a> </li>
+				<li> <a href="/moccha-blend"><p> Siguiente > </p></a> </li>
+				</ul>
 				<h3>Caf&eacute; Mezcla de Regiones</h3>
 				<h5><strong>Q50.00</strong></h5>
 				<p>Nuestra Mezcla de Regiones es una mezcla de café entre San Marcos y Huehuetenango, perfectamente balanceado en acidez, sabor y aroma. Cuenta con un cuerpo robusto, un aroma intenso, un sabor fuerte al entrar al paladar con notas frutales. </p>
