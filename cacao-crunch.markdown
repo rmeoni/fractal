@@ -4,7 +4,6 @@ permalink: /cacao-crunch
 ---
 <div class="region">
 	<div class="container">
-		<div class="row">
 			<div class="row">
 			<div class="col-md-8 col-xs-12">
 				<img class="img-responsive" src="/images/cacao-crunch.jpg">
@@ -20,7 +19,6 @@ permalink: /cacao-crunch
 				<h5>Buy1Help1</h5>
 				<p>Donamos el 10% de las ganancias de cada producto que compras en nuestra tienda para ayudar a la educaci&oacute;n en Guatemala.</p>
 				<a href="/orden-utopia-cacao" id="button">Ordenar en Linea</a>
-
 			</div>
 		</div>
 	</div>
