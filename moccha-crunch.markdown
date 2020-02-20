@@ -14,7 +14,7 @@ permalink: /moccha-crunch
 				<li> <a href="/moringa-powder"><p> Siguiente > </p></a> </li>
 				</ul>
 				<h3>Moccha Crunch</h3>
-				<h5><strong>Q50.00</strong></h5>
+				<h5><strong>Q35.00</strong></h5>
 				<p>Mezcla dulce y salada de cacao con café, deliciosa como una merienda saludable, o para agregar a su bebida, batido o comida favorita.
  				El cacao es cosechado en <a href="https://www.utopiaecohotel.com/collections/utopia-cacao-farms" target="_blank"><strong>Utopia Cacao Farms</strong></a> </p>
 				<h5>Buy1Help1</h5>
