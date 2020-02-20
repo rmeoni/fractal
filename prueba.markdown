@@ -66,7 +66,7 @@ permalink: /comprar
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<p>Cacao Crunch</p>
-				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/cacao-crunch.jpg"/></a>
+				<a href="/cacao-crunch"><img class="img-responsive" src="/images/cacao-crunch.jpg"/></a>
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<p>Moccha Crunch</p>
