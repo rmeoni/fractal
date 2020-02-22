@@ -6,6 +6,10 @@ permalink: /moringa-powder
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-xs-12">
+				<ul>
+					<li><a href="/"><p> Inicio &nbsp;&nbsp;/</p></a></li>
+					<li><a href="/comprar"><p>&nbsp;&nbsp; Comprar </p></a></li>
+				</ul>
 				<img class="img-responsive" src="/images/moringa-powder-1.jpg">
 			</div>
 			<div class="col-md-4 col-xs-12">
