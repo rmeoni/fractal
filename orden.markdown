@@ -3,6 +3,8 @@ layout: page
 permalink: /orden-en-linea
 ---
 <div class="orden">
+	<div class="featuring-2" id="cafe-featuring">
+  </div>
 	<div class="container">
 		<h1> Orden en L&iacute;nea</h1>
 		<p>Coloca tus datos para que llevemos a domicilio, puedes elegir varios productos en la misma orden. (Envío gratis a toda Guatemala a partir de 3 libras)</p>
