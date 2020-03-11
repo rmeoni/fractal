@@ -3,7 +3,7 @@ layout: page
 permalink: /orden-en-linea
 ---
 <div class="orden">
-	<div class="featuring-2" id="cafe-featuring">
+	<div id="cafe-featuring-4">
   </div>
 	<div class="container">
 		<h1> Orden en L&iacute;nea</h1>
