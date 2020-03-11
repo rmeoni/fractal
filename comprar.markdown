@@ -2,10 +2,10 @@
 layout: page
 permalink: /comprar-cafe
 ---
+<div id="cafe-featuring-3">
+</div>
 <div class="product" id="page-product">
 	<div class="container">
-		<div id="cafe-featuring-3">
-  </div>
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<p>Moccha Blend</p>
