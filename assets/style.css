@@ -244,16 +244,14 @@
 
 #supporting-3 {
 	text-align: center;
- 	background: rgb(238,174,202);
-	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
-	background-attachment: fixed;
+ 	background-color: #fff;
 	height: 400px;
 }
 
 #supporting-3 h1 {
 	font-family: 'Catamaran';
 	text-transform: uppercase;
-	color: #fff;
+	color: #333;
 	letter-spacing: 2px;
 	font-size: 4em;
 	padding: 70px;
@@ -261,7 +259,7 @@
 }
 
 #supporting-3 p {
-	color: #fff;
+	color: #333;
 }
 
 #distribuidores {
