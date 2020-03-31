@@ -203,10 +203,10 @@
 #origines-featuring {
 	background-image: url("/images/SAM_7000.jpg");
 	background-attachment: fixed;
-	background-size: cover;
-	height: 400px;
 	background-repeat: no-repeat;
+	background-size: cover;
 	background-position: center;
+	height: 400px;
 }
 
 #origenes-supporting p {
@@ -688,13 +688,6 @@ body form {
 	font-size: 0.9em;
 
 	}
-
-	#origines-featuring {
-	background-attachment: scroll;
-	height: 200px;
-	background-repeat: no-repeat;
-	}
-
 
 
 	#home-product {
