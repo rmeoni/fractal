@@ -66,7 +66,7 @@
 
 #home-supporting-2 {
 	background-image: url("/images/origenes.jpg");
-	background-size: contain;
+	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 600px;
@@ -611,7 +611,6 @@ body form {
 	#home-jumbotron {
 		min-height: 450px;
 		margin: 20px;
-		background-attachment: scroll;
 		text-align: left;
 	}
 
@@ -623,7 +622,6 @@ body form {
 
 	#home-supporting {
 		min-height: 400px;
-		background-attachment: scroll
 	}
 
 	#home-supporting h1 {
@@ -654,8 +652,6 @@ body form {
 
 	#home-supporting-2 {
 		margin:20px;
-		background-attachment: scroll;
-		background-size: 600px ;
 	}
 
 	#origenes-supporting #button {

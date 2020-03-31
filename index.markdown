@@ -30,7 +30,7 @@ layout: page
 </div>
 <div class="supporting-2" id="home-supporting-2">
 	<h2>Nuestro Compromiso</h2>
-	<h4>FRESCURA. <br> CALIDAD. <BR> AROMA. </h4>
+	<h4>FRESCURA. <br> CALIDAD. <br> AROMA. </h4>
 </div>
 <div class="featuring-2" id="home-featuring-2">
 	<h3>CAFÉ DON LUCAS VIENE EN 4 <br>DELICIOSAS PRESENTACIONES</h3>
