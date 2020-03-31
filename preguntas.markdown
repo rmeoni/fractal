@@ -2,6 +2,8 @@
 layout: page
 permalink: /preguntas-frecuentes
 ---
+<div id="cafe-featuring-7">
+</div>
 <div class="container" id="faq">
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3 col-xs-12">
