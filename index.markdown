@@ -33,8 +33,8 @@ layout: page
 	<h4>FRESCURA. <br> CALIDAD. <BR> AROMA. </h4>
 </div>
 <div class="featuring-2" id="home-featuring-2">
-	<h3>CAFÉ DON LUCAS VIENE EN 3 <br>DELICIOSAS PRESENTACIONES</h3>
-	<p>Te invitamos a conocer las 3 presentaciones de nuestro caf&eacute; <br>Un caf&eacute; para los paladares mas exigentes, siempre fresco y <br>aromatico. <br> <strong>*Precios Especiales a Restaurantes y Mayoristas*</strong></p>
+	<h3>CAFÉ DON LUCAS VIENE EN 4 <br>DELICIOSAS PRESENTACIONES</h3>
+	<p>Te invitamos a conocer las 4 presentaciones de nuestro caf&eacute; <br>Un caf&eacute; para los paladares mas exigentes, siempre fresco y <br>aromatico. <br> <strong>*Precios Especiales a Restaurantes y Mayoristas*</strong></p>
 	<a href="/comprar" id="button">Visitar Tienda</a>
 </div>
 <div class="product" id="home-product">
