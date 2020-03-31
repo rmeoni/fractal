@@ -3,8 +3,6 @@ layout: page
 permalink: /nuestro-cafe
 ---
 <div class="featuring-2" id="cafe-featuring">
-	<div class="container">
-	</div>
 </div>
 <div class="supporting" id="origenes-supporting">
 	<div class="container">
