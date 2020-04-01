@@ -15,7 +15,7 @@ permalink: /region-mezcla
 			<div class="col-md-4 col-xs-12">
 				<ul>
 				<li><a href="/region-huehuetenango"><p> < Atras /</p></a> </li>
-				<li> <a href="/moccha-blend"><p> Siguiente > </p></a> </li>
+				<li> <a href="/moringa-powder"><p> Siguiente > </p></a> </li>
 				</ul>
 				<h3>Caf&eacute; Mezcla de Regiones</h3>
 				<h5><strong>Q50.00</strong></h5>

@@ -15,7 +15,7 @@ permalink: /moccha-crunch
 			<div class="col-md-4 col-xs-12">
 				<ul>
 				<li><a href="/cacao-crunch"><p> < Atras /</p></a> </li>
-				<li> <a href="/moringa-powder"><p> Siguiente > </p></a> </li>
+				<li> <a href="/moccha-blend"><p> Siguiente > </p></a> </li>
 				</ul>
 				<h3>Moccha Crunch</h3>
 				<h5><strong>Q35.00</strong></h5>
