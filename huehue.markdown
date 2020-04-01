@@ -10,7 +10,7 @@ permalink: /region-huehuetenango
 					<li><a href="/"><p> Inicio &nbsp;&nbsp;/</p></a></li>
 					<li><a href="/comprar"><p>&nbsp;&nbsp; Comprar </p></a></li>
 				</ul>
-				<img class="img-responsive" src="/images/huehue.jpg">
+				<img class="img-responsive" src="/images/huehue-2.png">
 			</div>
 			<div class="col-md-4 col-xs-12">
 				<ul>

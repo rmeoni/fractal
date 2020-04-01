@@ -19,11 +19,11 @@ permalink: /comprar-cafe
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<p>Regi&oacute;n Huehuetenango</p>
-				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue.jpg"/></a>
+				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue-2.png"/></a>
 			</div>
 			<div class="col-md-6 col-xs-12">
 				<p>Mezcla de Regiones</p>
-				<a href="/region-mezcla"><img class="img-responsive" src="/images/mezcla.jpg"/></a>
+				<a href="/region-mezcla"><img class="img-responsive" src="/images/mezcla-2.png"/></a>
 			</div>
 		</div>
 	</div>

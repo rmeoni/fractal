@@ -10,7 +10,7 @@ permalink: /region-mezcla
 					<li><a href="/"><p> Inicio &nbsp;&nbsp;/</p></a></li>
 					<li><a href="/comprar"><p>&nbsp;&nbsp; Comprar </p></a></li>
 				</ul>
-				<img class="img-responsive" src="/images/mezcla.jpg">
+				<img class="img-responsive" src="/images/mezcla-2.png">
 			</div>
 			<div class="col-md-4 col-xs-12">
 				<ul>

@@ -51,12 +51,12 @@ layout: page
 		</div>
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<p>Regi&oacute;n Huehuetenango</p>
-				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue.jpg"/></a>
+				<p>Cacao Nibs</p>
+				<a href="/cacao-nibs"><img class="img-responsive" src="/images/cacao-nibs-1.jpg"/></a>
 			</div>
 			<div class="col-md-6 col-xs-12">
-				<p>Mezcla de Regiones</p>
-				<a href="/region-mezcla"><img class="img-responsive" src="/images/mezcla.jpg"/></a>
+				<p>Moccha Crunch</p>
+				<a href="/moccha-crunch"><img class="img-responsive" src="/images/moccha-crunch-1.jpg"/></a>
 			</div>
 		</div>
 	</div>
