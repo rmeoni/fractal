@@ -328,11 +328,13 @@
 #ventana-1 {
 	background-color: #bcaaa4;
 	text-transform: uppercase;
+	border-color: #fff;
 }
 
 #ventana-2 {
 	background-color: #efdcd5;
 	text-transform: uppercase;
+	border-color: #fff; 
 }
 
 #bs-over #tabs {
