@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 <div class="jumbotron" id="home-jumbotron">
 	<div class="container">
 		<h4>Hola.</h4>

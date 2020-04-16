@@ -1,4 +1,7 @@
 <header class="site-header">
+<div class="loader">
+  <img class ="img-responsive" width="200px" src="/images/don-lucas-animation.svg">
+</div>
 <div class="menu">
     <div class="icon-close">
       <i class="material-icons">close</i>
@@ -24,5 +27,9 @@
   <li><a href="/preguntas-frecuentes">PREGUNTAS FRECUENTES</a></li>
 </ul>
 </div>
-
+<script type="text/javascript">
+$(window).on("load",function(){
+  $(".loader").fadeOut("slow");
+});
+</script>
 </header>
