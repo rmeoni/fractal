@@ -368,11 +368,15 @@
 	height: 800px;
 	top: 210px;
 	left: 42%;
+	overflow-y: hidden; // hide vertical
+	overflow-x: hidden; // hide horizontal
+	cursor: not-allowed;
 }
 
 .loader .img-responsive {
-	position: center;
-	right: 200px;
+	position: fixed;
+	left: 40%;
+
 }
 
 /** orden en linea **/
