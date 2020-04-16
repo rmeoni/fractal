@@ -371,11 +371,6 @@
   z-index: 5;
 }
 
-.loader .img-responsive {
-	position: fixed;
-	left: 40%;
-
-}
 
 /** orden en linea **/
 .orden {
@@ -793,5 +788,9 @@ body form {
 		text-align: center;
 	}
 
+	.loader {
+		padding-top: 0px;
+		margin-top: 0px;
+	} 
 	
 	}
