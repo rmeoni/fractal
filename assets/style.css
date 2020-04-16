@@ -365,7 +365,7 @@
 .loader {
 	position: relative;
 	z-index: 1000;
-	height: 800px;
+	height: 1600px;
 	top: 210px;
 	overflow-y: hidden; // hide vertical
 	overflow-x: hidden; // hide horizontal
