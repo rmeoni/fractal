@@ -367,7 +367,6 @@
 	z-index: 1000;
 	height: 800px;
 	top: 210px;
-	left: 42%;
 	overflow-y: hidden; // hide vertical
 	overflow-x: hidden; // hide horizontal
 	cursor: not-allowed;
@@ -796,9 +795,13 @@ body form {
 	}
 
 	.loader {
-		top: 200px;
-		left: 20%;
+		top: 220px;
 	}
+	.loader .img-responsive {
+	position: fixed;
+	left: 25%;
+
+}
 
 	
 	}
