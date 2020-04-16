@@ -363,13 +363,12 @@
 
 /** loading image **/
 .loader {
-	position: relative;
-	z-index: 1000;
-	height: 1600px;
-	top: 210px;
-	overflow-y: hidden; // hide vertical
-	overflow-x: hidden; // hide horizontal
-	cursor: not-allowed;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background: #ffffff url('/images/don-lucas-animation.svg') no-repeat center center;
+  background-size: 200px;
+  z-index: 5;
 }
 
 .loader .img-responsive {
@@ -793,15 +792,6 @@ body form {
 		font-size: 2.5em;
 		text-align: center;
 	}
-
-	.loader {
-		top: 220px;
-	}
-	.loader .img-responsive {
-	position: fixed;
-	left: 25%;
-
-}
 
 	
 	}
