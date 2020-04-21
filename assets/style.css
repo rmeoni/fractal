@@ -329,6 +329,7 @@
 	background-color: #bcaaa4;
 	text-transform: uppercase;
 	border-color: #fff;
+	color: #fff;
 }
 
 #ventana-2 {
@@ -337,9 +338,10 @@
 	border-color: #fff; 
 }
 
-#bs-over #tabs {
-	color: #fff;
+#bs-over .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+	color: #000;
 }
+
 
 #bs-over .ui-widget-header {
 	background: #fff;
