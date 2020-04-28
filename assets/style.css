@@ -7,15 +7,14 @@
 }
 
 #home-jumbotron {
- 	background: rgb(34,193,195);
-	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
+ 	background-image: url("/images/SAM_6998.jpg");
 	background-attachment: fixed;
-	background-size: contain;
+	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	min-height: 400px;
-	padding:50px 50px 0px 50px;
 	text-align: center;
+	padding:50px 50px 0px 50px;
 }
 
 #home-jumbotron h1 {
@@ -325,14 +324,14 @@
 }
 
 /**SHOP TABS**/
-#ventana-1 {
+#bs-over #ventana-1 {
 	background-color: #bcaaa4;
 	text-transform: uppercase;
 	border-color: #fff;
 	color: #fff;
 }
 
-#ventana-2 {
+#bs-over #ventana-2 {
 	background-color: #efdcd5;
 	text-transform: uppercase;
 	border-color: #fff; 
@@ -340,6 +339,7 @@
 
 #bs-over .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
 	color: #000;
+	border-color: #fff; 
 }
 
 
