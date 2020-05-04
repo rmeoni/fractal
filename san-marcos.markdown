@@ -19,7 +19,7 @@ permalink: /region-san-marcos
 				</ul>
 				<h3>Caf&eacute; Regi&oacute;n San Marcos Gourmet Blend</h3>
 				<h5><strong>Q50.00</strong></h5>
-				<p>Nuestro café de San Marcos es un café guatemalteco 100% orgánico cosechado a las faldas del Volcán Tajumulco a 1,500 mts. sobre el nivel del mar con una denominación de grano <strong>Estrictamente-Duro.</strong> Un sabor suave al paladar, de cuerpo redondo, con notas frutales y dulces. </p>
+				<p>Una deliciosa mezcla de diferentes alturas en la región de San Marcos, entre 1,100 y 1,500 m.s.n.m. con una denominación de <strong>grano Estrictamente-Duro y Duro.</strong> Notas frutales, acarameladas y avellanadas con un post-gusto inolvidable. </p>
 				<h5>Buy1Help1</h5>
 				<p>Donamos el 10% de las ganancias de cada producto que compras en nuestra tienda para ayudar a la educaci&oacute;n en Guatemala.</p>
 				<a href="/orden-en-linea" id="button">Ordenar en Linea</a>
