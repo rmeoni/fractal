@@ -4,6 +4,11 @@
 
 #bs-over {
 	font-family: "Oswald";
+	background-color: #fff8e1;
+}
+
+body {
+	background-color: #fff8e1;
 }
 
 #home-jumbotron {
@@ -15,25 +20,29 @@
 	min-height: 400px;
 	text-align: center;
 	padding:50px 50px 0px 50px;
-	color: #fff;
+	color: #fff8e1;
 }
 
 #home-jumbotron h1 {
 	font-family: 'Catamaran';
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	color: #fff8e1;
 }
 
 #home-jumbotron h4 {
 	letter-spacing: 2px;
+	color: #fff8e1;
 }
 
 #home-jumbotron h5 {
 	letter-spacing: 2px;
 	margin-bottom: 30px;
+	color: #fff8e1;
 }
 
 #home-jumbotron p {
+	color: #fff8e1;
 }
 
 
@@ -120,12 +129,14 @@
 	background-color: #fff;
 	text-transform: uppercase;
 	margin-bottom: 20px;
+	background-color: #000;
+	color: #fff;
 
 }
 
  #home-featuring #button:hover {
-	background-color: #000;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 	transition: background-color .3s;
 }
 
@@ -146,8 +157,8 @@
 
 
 #home-featuring-2 #button:hover {
-	background-color: #000;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 	transition: background-color .3s;
 }
 
@@ -251,7 +262,7 @@
 
 #supporting-3 {
 	text-align: center;
- 	background-color: #fff;
+ 	background-color: #fff8e1;
 	height: 400px;
 }
 
@@ -343,18 +354,21 @@
 
 #bs-over .ui-widget-header {
 	background: #fff;
-	border-bottom: 1px solid #fff;
-	border-left: 1px solid #fff;
-	border-top: 1px solid #fff;
-	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff8e1;
+	border-left: 1px solid #fff8e1;
+	border-top: 1px solid #fff8e1;
+	border-right: 1px solid #fff8e1;
+	background-color: #fff8e1;
 }
 
 #bs-over .ui-widget.ui-widget-content {
-	border: 1px solid #fff;
+	border: 1px solid #fff8e1;
+	background-color: #fff8e1;
 }
 
 #bs-over #ui-id-1 {
 	font-weight: bold;
+
 }
 
 #bs-over #ui-id-2 {
@@ -369,6 +383,7 @@
   background: #ffffff url('/images/don-lucas-animation.svg') no-repeat center center;
   background-size: 200px;
   z-index: 5;
+  background-color: #fff8e1;
 }
 
 
@@ -384,13 +399,14 @@
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	text-decoration: none;
-	color: #000;
+	color: #fff;
 	margin-bottom: 40px;
+	background-color: #000;
 }
 
  #button:hover {
-	background-color: #000;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 	transition: background-color .3s;
 }
 
@@ -400,13 +416,14 @@
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	text-decoration: none;
-	color: #000;
+	color: #fff;
+	background-color: #000;
 	margin-bottom: 40px;
 }
 
  #button-tienda:hover {
-	background-color: #000;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 	transition: background-color .3s;
 }
 
@@ -534,12 +551,12 @@ body p {
 	padding: 5px;
 	margin-left: 5px;
 	font-size: 28px;
-	background-color: #fff;
+	background-color: #fff8e1;
 }
 
 .btn {
 	border-radius: 0%;
-	background-color: #333;
+	background-color: #000;
 	color: #fff;
 	padding: 10px;
 	margin-bottom: 20px;
@@ -554,7 +571,7 @@ body p {
 
 body li a span {
 	color: #57585B;
-	background-color: #57585B;
+	background-color: #fff8e1;
 }
 
 body li:hover a span {
@@ -562,7 +579,7 @@ body li:hover a span {
     height: 10px;
     margin: -5px 0px 0px -5px;
     color: #57585B;
-    background-color: #57585B; 
+    background-color: #fff8e1; 
 }
 
 
