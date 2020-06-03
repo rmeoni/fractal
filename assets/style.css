@@ -135,7 +135,7 @@ body {
 }
 
  #home-featuring #button:hover {
-	background-color: #fff;
+	background-color: #fff8e1;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -157,7 +157,7 @@ body {
 
 
 #home-featuring-2 #button:hover {
-	background-color: #fff;
+	background-color: #fff8e1;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -405,7 +405,7 @@ body {
 }
 
  #button:hover {
-	background-color: #fff;
+	background-color: #fff8e1;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -422,7 +422,7 @@ body {
 }
 
  #button-tienda:hover {
-	background-color: #fff;
+	background-color: #fff8e1;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -565,7 +565,7 @@ body p {
 }
 
 .btn:hover {
-	background-color: #fff;
+	background-color: #fff8e1;
 	color: #000;
 }
 
