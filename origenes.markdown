@@ -16,7 +16,7 @@ permalink: /nuestros-origenes
 				<p style="padding-top:0px !important ;margin-top:8px !important;">Al pasar el tiempo del negocio dentro del café y comenzar a establecer amistades, el abuelo Lucas fue ofrecido por un gran amigo, y dueño en ese entonces de una finca cercana llamada Las Cruces,  la oportunidad de comprar un carro tipo agricola a crédito.</p>
 				<p style="padding-top:0px !important ;margin-top:8px !important;">El problema era que mi abuelo no sabia manejar, así es que su amigo decidió venderle el carro, junto con lecciones de manejo de su chofer. Fue así como Don Lucas pasó de cargar 1 bulto en su espalda a transportar 10+ bultos en su primer carro con palangana.</p>
 				<p style="padding-top:0px !important ;margin-top:8px !important;">El primer camión lo compro gracias a la ayuda del administrador de la finca Australia. El señor Juan Newman. Le prestó Q6000. De aquella época, sin documento de por medio. El sabía que mi abuelo no le iba a fallar.</p>
-				<p style="padding-top:0px !important ;margin-top:8px !important;">A los pocos años Don Lucas logro comprar sus primeras parcelas donde comenzó a cultivar su propio café. Y fue así, sin detenerse, sin retroceder, que mi abuelo logro forjar esta tradición inalterable, incomparable y que con mucho gusto llevamos a tu mesa. </p>
+				<p style="padding-top:0px !important ;margin-top:8px !important; margin-bottom: 48px;">A los pocos años Don Lucas logro comprar sus primeras parcelas donde comenzó a cultivar su propio café. Y fue así, sin detenerse, sin retroceder, que mi abuelo logro forjar esta tradición inalterable, incomparable y que con mucho gusto llevamos a tu mesa. </p>
 				<a href="/nuestro-cafe" id="button">CONOCE MÁS DE NUESTRO CAFÉ</a>
 			</div>
 		</div>
