@@ -11,6 +11,12 @@ body {
 	background-color: #EFE5DE;
 }
 
+p {
+color: #01172F !important;
+
+}
+
+
 #home-jumbotron {
  	background-image: url("/images/SAM_6998.jpg");
 	background-attachment: fixed;
@@ -270,7 +276,7 @@ body {
 #supporting-3 h1 {
 	font-family: 'Catamaran';
 	text-transform: uppercase;
-	color: #333;
+	color: #01172F;
 	letter-spacing: 2px;
 	font-size: 4em;
 	padding: 70px;
@@ -278,7 +284,7 @@ body {
 }
 
 #supporting-3 p {
-	color: #333;
+	color: #01172F;
 }
 
 #distribuidores {
@@ -436,7 +442,7 @@ body {
 
 body p {
 	font-weight: 200;
-	color: #989898;
+	color: #01172F;
 	line-height: 30px; 
 }
 
@@ -620,7 +626,7 @@ body form {
 
 .footer ul li a {
 	text-decoration: none;
-	color: #989898;
+	color: #01172F;
 }
 
 .footer ul li a:hover {
