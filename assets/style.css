@@ -217,11 +217,12 @@ body {
 	background-position: center;
 	height: 400px;
 }
-
+/*
 #origenes-supporting p {
-	margin-bottom: 40px;
-	padding-bottom: 40px;
+	margin-bottom: 4px;
+	padding-bottom: 4px;
 }
+*/
 
 #cafe-featuring {
 	background-image: url("/images/nuestro-cafe.jpg");
@@ -353,7 +354,7 @@ body {
 
 
 #bs-over .ui-widget-header {
-	background: #fff;
+	background: #EFE5DE;
 	border-bottom: 1px solid #EFE5DE;
 	border-left: 1px solid #EFE5DE;
 	border-top: 1px solid #EFE5DE;
@@ -362,7 +363,7 @@ body {
 }
 
 #bs-over .ui-widget.ui-widget-content {
-	border: 1px solid #fff8e1;
+	border: 1px solid #EFE5DE;
 	background-color: #EFE5DE;
 }
 
