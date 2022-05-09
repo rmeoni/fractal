@@ -135,7 +135,7 @@ body {
 }
 
  #home-featuring #button:hover {
-	background-color: #fff8e1;
+	background-color: ##EFE5DE;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -157,7 +157,7 @@ body {
 
 
 #home-featuring-2 #button:hover {
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -262,7 +262,7 @@ body {
 
 #supporting-3 {
 	text-align: center;
- 	background-color: #fff8e1;
+ 	background-color: #EFE5DE;
 	height: 400px;
 }
 
@@ -358,12 +358,12 @@ body {
 	border-left: 1px solid #fff8e1;
 	border-top: 1px solid #fff8e1;
 	border-right: 1px solid #fff8e1;
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 }
 
 #bs-over .ui-widget.ui-widget-content {
 	border: 1px solid #fff8e1;
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 }
 
 #bs-over #ui-id-1 {
@@ -405,7 +405,7 @@ body {
 }
 
  #button:hover {
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -422,7 +422,7 @@ body {
 }
 
  #button-tienda:hover {
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 	color: #000;
 	transition: background-color .3s;
 }
@@ -565,13 +565,13 @@ body p {
 }
 
 .btn:hover {
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 	color: #000;
 }
 
 body li a span {
 	color: #57585B;
-	background-color: #fff8e1;
+	background-color: #EFE5DE;
 }
 
 body li:hover a span {
@@ -579,7 +579,7 @@ body li:hover a span {
     height: 10px;
     margin: -5px 0px 0px -5px;
     color: #57585B;
-    background-color: #fff8e1; 
+    background-color: #EFE5DE; 
 }
 
 
