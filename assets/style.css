@@ -354,10 +354,10 @@ body {
 
 #bs-over .ui-widget-header {
 	background: #fff;
-	border-bottom: 1px solid #fff8e1;
-	border-left: 1px solid #fff8e1;
-	border-top: 1px solid #fff8e1;
-	border-right: 1px solid #fff8e1;
+	border-bottom: 1px solid #EFE5DE;
+	border-left: 1px solid #EFE5DE;
+	border-top: 1px solid #EFE5DE;
+	border-right: 1px solid #EFE5DE;
 	background-color: #EFE5DE;
 }
 
