@@ -23,7 +23,7 @@ layout: page
 		<div class="col-md-6 col-xs-12">
 			<img class="img-responsive" id="cafe-img" src="images/cover-producto.png">
 			<h3>Nuestro Caf&eacute; </h3>
-			<p>Cosecha 2019, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto. </p>
+			<p>Cosecha 2021, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto. </p>
 			<a href="/nuestro-cafe" id="button">VER MÁS</a>
 		</div>
 	</div>
