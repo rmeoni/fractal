@@ -340,21 +340,21 @@ color: #01172F !important;
 
 /**SHOP TABS**/
 #bs-over #ventana-1 {
-	background-color: #bcaaa4;
+	background-color: #01172F;
 	text-transform: uppercase;
-	border-color: #fff;
-	color: #fff;
+	border-color: #01172F;
+	color: #EFE5DE;
 }
 
 #bs-over #ventana-2 {
-	background-color: #efdcd5;
+	background-color: #A4ACB4;
 	text-transform: uppercase;
-	border-color: #fff; 
+	border-color: #EFE5DE; 
 }
 
 #bs-over .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
-	color: #000;
-	border-color: #fff; 
+	color: #EFE5DE;
+	border-color: #01172F; 
 }
 
 
