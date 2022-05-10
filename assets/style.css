@@ -81,7 +81,7 @@ color: #01172F !important;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 600px;
+	min-height: 600px;
 	text-align: center;
 	padding:50px;
 	background-attachment: fixed;
@@ -220,7 +220,7 @@ color: #01172F !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 400px;
+	min-height: 400px;
 }
 /*
 #origenes-supporting p {
@@ -235,7 +235,7 @@ color: #01172F !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 400px;
+	min-height: 400px;
 }
 
 #cafe-featuring-3 {
@@ -244,7 +244,7 @@ color: #01172F !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 400px;
+	min-height: 400px;
 }
 
 
@@ -254,7 +254,7 @@ color: #01172F !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 400px;
+	min-height: 400px;
 }
 
 #cafe-featuring-7 {
@@ -263,7 +263,7 @@ color: #01172F !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 400px;
+	min-height: 400px;
 }
 
 #supporting-3 {
