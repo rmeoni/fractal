@@ -382,6 +382,10 @@ color: #01172F !important;
 	color: #01172F;
 }
 
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited, a.ui-button, a:link.ui-button, a:visited.ui-button, .ui-button {
+	color: #EFE5DE !important;
+
+}
 /** loading image **/
 .loader {
   position: fixed;
