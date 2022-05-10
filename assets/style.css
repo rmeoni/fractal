@@ -130,19 +130,18 @@ color: #01172F !important;
 
 #home-featuring #button {
 	padding: 18px 35px 18px 35px;
-	border: 2px solid #000;
+	border: 2px solid #01172F;
 	border-radius: 2%;
-	background-color: #fff;
 	text-transform: uppercase;
 	margin-bottom: 20px;
-	background-color: #000;
-	color: #fff;
+	background-color: #01172F;
+	color: #EFE5DE;
 
 }
 
  #home-featuring #button:hover {
-	background-color: ##EFE5DE;
-	color: #000;
+	background-color: #EFE5DE;
+	color: #01172F;
 	transition: background-color .3s;
 }
 
