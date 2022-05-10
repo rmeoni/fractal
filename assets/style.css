@@ -423,18 +423,17 @@ color: #01172F !important;
 
 #button-tienda {
 	padding: 18px 35px 18px 35px;
-	background-color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	text-decoration: none;
-	color: #fff;
-	background-color: #000;
+	color: #EFE5DE;
+	background-color: #01172F;
 	margin-bottom: 40px;
 }
 
  #button-tienda:hover {
 	background-color: #EFE5DE;
-	color: #000;
+	color: #01172F;
 	transition: background-color .3s;
 }
 
