@@ -21,7 +21,7 @@ permalink: /moccha-crunch
 				<h5><strong>Q35.00</strong></h5>
 				<p>Mezcla dulce y salada de cacao con café, deliciosa como una merienda saludable, o para agregar a su bebida, batido o comida favorita.
  				El cacao es cosechado en <a href="https://www.utopiaecohotel.com/collections/utopia-cacao-farms" target="_blank"><strong>Utopia Cacao Farms</strong></a> </p>
-				<h5>Buy1Help1</h5>
+				<h5>Compra1Educa1</h5>
 				<p>Donamos el 10% de las ganancias de cada producto que compras en nuestra tienda para ayudar a la educaci&oacute;n en Guatemala.</p>
 				<a href="/orden-utopia-cacao" id="button">Ordenar en Linea</a>
 
