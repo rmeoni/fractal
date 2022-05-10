@@ -16,7 +16,7 @@ permalink: /nuestro-cafe
 				<br>
 				Nuestra <strong>Mezcla de Regiones</strong> es un café perfectamente balanceado en acidez, sabor y aroma. Cuenta con un cuerpo robusto, un aroma intenso, un sabor fuerte al entrar al paladar con notas frutales.
 				<br>
-				<strong>Cosecha 2019</strong>, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto.
+				<strong>Cosecha 2021</strong>, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad media y un cuerpo robusto.
 				<br>
 				</p>
 				<a href="/comprar" id="button">VISITA NUESTRA TIENDA</a>

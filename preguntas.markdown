@@ -8,7 +8,7 @@ permalink: /preguntas-frecuentes
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3 col-xs-12">
 			<h3>¿Tienen precios especiales para Restaurantes y Mayoristas?</h3>
-			<p>S&iacute; a partir de 7 libras aplica un descuento especial para Distribuidores y Mayoristas.</p>
+			<p>S&iacute; a partir de 30 libras aplica un descuento especial para Distribuidores y Mayoristas.</p>
 		</div>	
 	</div>
 	<div class="row">
