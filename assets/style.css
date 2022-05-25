@@ -829,7 +829,10 @@ body form {
 		margin-top: 0px;
 	} 
 	#cafe-featuring, #cafe-featuring-2, #cafe-featuring-3, #cafe-featuring-4, #cafe-featuring-5, #cafe-featuring-6, #cafe-featuring-7, #cafe-featuring-8 {
-		background-attachment: none !important;
+		background-attachment: scroll;
+		background-position: cover;
+		width: 100% !important;
+		height: 500px;
 
 	}
 
