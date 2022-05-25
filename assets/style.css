@@ -711,7 +711,7 @@ body form {
 
 	#home-supporting-2 {
 		margin:20px;
-		background-attachment: none;
+		background-attachment: none !important;
 	}
 
 	#origenes-supporting #button {
@@ -828,5 +828,9 @@ body form {
 		padding-top: 0px;
 		margin-top: 0px;
 	} 
-	
+	#cafe-featuring, #cafe-featuring-2, #cafe-featuring-3, #cafe-featuring-4, #cafe-featuring-5, #cafe-featuring-6, #cafe-featuring-7, #cafe-featuring-8 {
+		background-attachment: none !important;
+
+	}
+
 	}
