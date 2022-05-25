@@ -674,6 +674,7 @@ body form {
 		background-position: cover;
 		width: 100% !important;
 		height: 500px;
+		overflow: hidden;
 	}
 
 	#home-jumbotron h5 {
@@ -839,6 +840,7 @@ body form {
 		background-position: cover;
 		width: 100% !important;
 		height: 500px;
+		overflow: hidden;
 
 	}
 
