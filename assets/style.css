@@ -668,9 +668,12 @@ body form {
 @media only screen and (max-width: 768px) {
 
 	#home-jumbotron {
-		min-height: 450px;
 		margin: 20px;
 		text-align: left;
+		background-attachment: scroll;
+		background-position: cover;
+		width: 100% !important;
+		height: 500px;
 	}
 
 	#home-jumbotron h5 {
@@ -711,7 +714,10 @@ body form {
 
 	#home-supporting-2 {
 		margin:20px;
-		background-attachment: none !important;
+		background-attachment: scroll;
+		background-position: cover;
+		width: 100% !important;
+		height: 500px;
 	}
 
 	#origenes-supporting #button {
