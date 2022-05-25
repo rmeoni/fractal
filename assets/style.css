@@ -266,6 +266,15 @@ color: #01172F !important;
 	min-height: 400px;
 }
 
+#cafe-featuring-8 {
+	background-image: url("/images/gourmet-blend-granos.jpeg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 400px;
+}
+
 #supporting-3 {
 	text-align: center;
  	background-color: #EFE5DE;

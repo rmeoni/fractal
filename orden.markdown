@@ -17,8 +17,4 @@ permalink: /orden-en-linea
   <a href="https://podio.com/webforms/20538022/1406331" target="_blank">Please fill out the form</a>
 </noscript>
 <!-- END Podio web form -->
-
-
-
-	</div>
 </div>
