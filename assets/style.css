@@ -668,7 +668,6 @@ body form {
 @media only screen and (max-width: 768px) {
 
 	#home-jumbotron {
-		margin: 20px;
 		text-align: left;
 		background-attachment: scroll;
 		background-position: cover;
@@ -714,7 +713,6 @@ body form {
 	}
 
 	#home-supporting-2 {
-		margin:20px;
 		background-attachment: scroll;
 		background-position: cover;
 		width: 100% !important;
