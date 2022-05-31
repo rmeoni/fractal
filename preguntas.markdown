@@ -33,7 +33,7 @@ permalink: /preguntas-frecuentes
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3 col-xs-12">
 			<h3>¿Donde puedo encontrar su caf&eacute;?</h3>
-			<p>Puedes ordenar a travez de nuestra p&aacute;gina web y te lo llevaremos a tu casa u oficina dentro de la ciudad de guatemala completamente gratis a partir de 2 libras, el envío al interior tiene un costo adicional. </p>
+			<p>Puedes ordenar a travez de nuestra p&aacute;gina web y te lo llevaremos a tu casa u oficina dentro de la ciudad de guatemala completamente gratis a partir de 3 libras, el envío al interior tiene un costo adicional. </p>
 		</div>	
 	</div>
 </div>
