@@ -842,4 +842,8 @@ body form {
 
 	}
 
+	#podio-form {
+		min-height: 1200px;
+	}
+
 	}
