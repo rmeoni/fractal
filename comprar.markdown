@@ -16,7 +16,7 @@ permalink: /comprar-cafe
 				<a href="/moccha-blend"><img class="img-responsive" id="product-image" src="/images/moccha-blend.jpg"/></a>
 			</div>
 		</div>
-		<div class="row">
+		<!--		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<p>Regi&oacute;n Huehuetenango Q50.00</p>
 				<a href="/region-huehuetenango"><img class="img-responsive" src="/images/huehue-2.png"/></a>
@@ -26,5 +26,6 @@ permalink: /comprar-cafe
 				<a href="/region-mezcla"><img class="img-responsive" src="/images/mezcla-2.png"/></a>
 			</div>
 		</div>
+		-->
 	</div>
 </div>
