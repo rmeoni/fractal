@@ -842,16 +842,4 @@ body form {
 		overflow: hidden;
 
 	}
-
-	#podio-form {
-		min-height: 1200px !important;
-		overflow: visible;
-	}
-
-	.orden {
-		min-height:1200px !important;
-		overflow: visible;
-
-	}
-
 	}
