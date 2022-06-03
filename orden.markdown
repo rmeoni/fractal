@@ -2,9 +2,10 @@
 layout: page
 permalink: /orden-en-linea
 ---
+<div class="orden">
 <div id="cafe-featuring-4">
 </div>
-<div>
+<div class="container" id="podio-form">
 	<h1> Orden en L&iacute;nea</h1>
    	<p>Coloca tus datos para que llevemos tu café a domicilio, puedes elegir varios productos en la misma orden. (Envío gratis a toda Guatemala a partir de 3 libras)</p>
    	<!-- BEGIN Podio web form -->
@@ -13,4 +14,5 @@ permalink: /orden-en-linea
   _podioWebForm.render("1406331")
 	</script>
 	<!-- END Podio web form -->
+</div>
 </div>
