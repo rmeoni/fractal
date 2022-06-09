@@ -467,6 +467,8 @@ body p {
 	line-height: 30px; 
 }
 
+/* the .menu class is for the mobile menu and the #menu id is for the desktop menu */
+
  .menu {
 	background-color: #01172F;
 	color: #fff;
@@ -550,7 +552,7 @@ body p {
 	padding: 6px;
 	padding-left: 0px;
 	margin-left: 0px;
-	margin-top: 10px;
+	margin-top: 24px;
 	font-size: 22px;
 	padding-right: 5px;
 
