@@ -66,6 +66,7 @@ layout: page
 	<h1>Bolsa 100% degradable en menos de 2 años</h1>
 	<h3>Las bolsas de plastico normales tardan 500 años en degradarse</h3>
 	<p>Al comprar nuestro café ayudas a preservar la naturaleza, ademas de disfrutar un café 100% org&aacute;nico con calidad de exportaci&oacute;n.</p>
+	<a href="/orden-en-linea" id="button">Ordena Ahora</a>
 </div>
 <div class="featuring-3">
 	<div class="container">
