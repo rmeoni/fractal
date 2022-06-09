@@ -696,7 +696,7 @@ body form {
 #home-jumbotron h1 {
 	color: #EFE5DE;
 	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-bottom: -16px;
 }
 
 #home-jumbotron p {
