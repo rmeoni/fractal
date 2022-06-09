@@ -5,8 +5,8 @@ layout: page
 <div class="jumbotron" id="home-jumbotron">
 	<div class="container">
 		<h4>Hola.</h4>
-		<h1>Nuestra misi&oacute;n es simple:</h1>
-		<h5>Producir y distribuir el mejor caf&eacute; guatemalteco 100% org&aacute;nico y amigable al medio ambiente.</h5>
+		<h1>Creemos en el café de Guate</h1>
+		<h5 style="text-shadow:0px 12px 22px rgba(113, 109, 110, 0.1), 0px -12px 22px rgba(113, 109, 110, 0.05);">Producimos y distribuimos el mejor caf&eacute; guatemalteco 100% org&aacute;nico y amigable al medio ambiente.</h5>
 		<br>
 		<a href="/solicitar-distribucion" id="button-tienda">Solicitar Distribución</a>
 	</div>
