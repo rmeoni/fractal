@@ -569,7 +569,7 @@ body p {
 .icon-close i {
 	cursor: pointer;
 	padding-top: 5px;
-	padding-left: 10px;
+	padding-left: 10%;
 	font-size: 28px;
 }
 
@@ -827,6 +827,7 @@ body form {
 	#button-tienda {
 		font-size: 0.9em;
 		padding: 10px;
+		margin-top: 24px;
 	}
 
 	#button-tienda-light {
