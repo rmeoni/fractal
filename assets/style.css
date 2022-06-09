@@ -292,7 +292,13 @@ font-size: 16px !important;
 
 #supporting-3 p {
 	color: #01172F;
+	margin-bottom: 48px;
 }
+
+#supporting-3 #button {
+ margin-bottom: 48px;
+}
+
 
 #distribuidores {
 	text-align: center;
@@ -860,6 +866,11 @@ body form {
 		padding: 60px 30px 10px 30px;
 		font-size: 2.5em;
 		text-align: center;
+	}
+
+	#supporting-3 p {
+		margin-bottom: 24px;
+
 	}
 
 	.loader {
