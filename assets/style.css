@@ -696,6 +696,11 @@ body form {
 	margin-bottom: 0px;
 }
 
+#home-jumbotron p {
+	margin-top: 0px;
+	line-height: 1em;
+}
+
 	#home-supporting {
 		min-height: 400px;
 	}
