@@ -496,7 +496,7 @@ body p {
 #menu li {
 	opacity: 0.9;
 	display: inline-block;
-	margin-left: 0px;
+	margin-left: 20px;
 }
 
 #menu li a {
@@ -542,12 +542,12 @@ body p {
 
 .menu ul {
 	list-style-type: none;
-	margin-left: 25%;
+	margin-left: 5%;
 	padding-left: 0px;
 }
 
 .menu li {
-	padding: 10px;
+	padding: 6px;
 	padding-left: 0px;
 	margin-left: 0px;
 	margin-top: 10px;
@@ -776,6 +776,8 @@ body form {
 	#menu {
 		display: none;
 	}
+
+	
 
 	#shopping-cart {
 		display: none;
