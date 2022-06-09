@@ -5,7 +5,12 @@
 
   <body id="bs-over">
     
+  {%- include header.html -%}
 
+  <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
 
 <script type="text/javascript">
 
@@ -41,7 +46,7 @@
 $(document).ready(main);
 
   </script>
-    </main>
+  </main>
 
     {%- include footer.html -%}
 

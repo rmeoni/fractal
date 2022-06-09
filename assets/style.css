@@ -188,7 +188,6 @@ font-size: 16px !important;
 
 #home-product p {
 	display: inline-block;
-	float: left;
 }
 
 /** tienda en linea **/
@@ -211,7 +210,6 @@ font-size: 16px !important;
 
 #page-product p {
 	display: inline-block;
-	float: left;
 	font-weight: bold;
 }
 
@@ -445,6 +443,16 @@ font-size: 16px !important;
 	background-color: #EFE5DE;
 	color: #01172F;
 	transition: background-color .3s;
+}
+
+#button-tienda-light {
+	padding: 18px 35px 18px 35px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-decoration: none;
+	color: #01172F;
+	background-color: #EFE5DE;
+	margin-bottom: 40px;
 }
 
 body {
