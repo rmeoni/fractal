@@ -472,7 +472,7 @@ body p {
 	color: #fff;
 	height: 100%;
   	position: fixed;
-  	width: 220px;
+  	width: 240px;
   	right: 0;
   	transform: translateX(240px) scale(0.9);
   	z-index: 4;
@@ -496,7 +496,7 @@ body p {
 #menu li {
 	opacity: 0.9;
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 12px;
 }
 
 #menu li a {
