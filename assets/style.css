@@ -688,7 +688,12 @@ body form {
 	#home-jumbotron h5 {
 	color: #fff;
 	letter-spacing: 2px;
-	margin-bottom: 5px;
+	margin-bottom: 0px;
+}
+
+#home-jumbotron h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 	#home-supporting {
