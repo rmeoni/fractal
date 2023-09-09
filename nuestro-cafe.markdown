@@ -16,7 +16,7 @@ permalink: /nuestro-cafe
 				<br>
 				Nuestra <strong>Mezcla de Regiones</strong> es una <strong>mezcla de café de San Marcos y Atitlán</strong> perfectamente balanceado en acidez, sabor y con un aroma incomparable. Cuenta con un cuerpo complejo, un aroma intenso, un sabor satisfactorio al entrar al paladar con notas frutales, dulces y chocolatadas.
 				<br>
-				<strong>Cosecha 2021</strong>, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad fuerte y un cuerpo complejo.
+				<strong>Cosecha 2022</strong>, café tostado y molido el {{ site.time | date: '%d/%m/%y' }}, elaborado con los más finos estandares de calidad y los mejores cuidados para que usted experimente un café aromático, con una intensidad fuerte y un cuerpo complejo.
 				<br>
 				</p>
 				<a href="/comprar" id="button">VISITA NUESTRA TIENDA</a>
